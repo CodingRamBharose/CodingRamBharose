@@ -77,63 +77,25 @@
 
 ---
 
-# 🧰 Tools, Libraries & Platforms
-
-### 💻 Development Tools
+# 🧰 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=androidstudio)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-
----
-
-### 🎨 Design & Productivity
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
 ![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge\&logo=pinterest)
-
----
-
-### 🤖 AI & Developer Assistants
-
 ![Claude](https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge)
 ![Antigravity](https://img.shields.io/badge/Antigravity-AI-purple?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-AI-green?style=for-the-badge)
 
 ---
 
-### ☁ Hosting & Deployment
-
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge\&logo=firebase)
-
----
-
-### ⚙ Backend Libraries & Services
-
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge\&logo=socketdotio)
-![Zustand](https://img.shields.io/badge/Zustand-brown?style=for-the-badge)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge\&logo=cloudinary)
-![Resend](https://img.shields.io/badge/Resend-email-black?style=for-the-badge)
-
----
-
-### 📦 Additional Libraries
-
-![Axios](https://img.shields.io/badge/Axios-purple?style=for-the-badge)
-![Zod](https://img.shields.io/badge/Zod-blue?style=for-the-badge)
-![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge\&logo=redux)
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodingRamBharose&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CodingRamBharose&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingRamBharose&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -141,15 +103,15 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=CodingRamBharose&theme=tokyonight">
+<img src="https://streak-stats.demolab.com/?user=CodingRamBharose&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 💻 Most Used Languages
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingRamBharose&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodingRamBharose&theme=tokyo-night"/>
 </p>
 
 ---
@@ -157,28 +119,9 @@
 # 🏆 Achievements
 
 🏅 Merit Scholarship – Thapar Institute
-
 📈 LeetCode Rating **1660+**
-
 💻 350+ DSA Problems Solved
-
 🎖 NCC Cadet (A, B, C Certified)
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodingRamBharose&theme=tokyo-night">
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/CodingRamBharose/CodingRamBharose/output/github-contribution-grid-snake.svg">
-</p>
 
 ---
 
@@ -194,7 +137,7 @@ https://codingrambharose.me
 https://github.com/CodingRamBharose
 
 📧 Email
-[ramavtar.crb@gmail.com](mailto:ramavtar.crb@gmail.com)
+mailto:ramavtar[.crb@gmail.com](mailto:.crb@gmail.com)
 
 ---
 
