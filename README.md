@@ -89,19 +89,15 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodingRamBharose&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodingRamBharose&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=CodingRamBharose&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=CodingRamBharose&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
