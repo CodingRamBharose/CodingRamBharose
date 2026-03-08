@@ -116,6 +116,14 @@
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/CodingRamBharose/CodingRamBharose/output/github-snake-dark.svg"/>
+</p>
+
+---
+
 # 🏆 Achievements
 
 🏅 Merit Scholarship – Thapar Institute
