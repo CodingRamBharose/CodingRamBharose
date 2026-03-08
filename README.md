@@ -15,8 +15,6 @@
 
 🌱 Currently building **AI + Web + Mobile applications**
 
-🤖 Working on **Multimodal Deepfake Detection**
-
 🚜 Creator of **Soil Social – Farmer Social Platform**
 
 📈 Solved **350+ DSA Problems**
@@ -121,22 +119,6 @@
 📈 LeetCode Rating **1660+**
 💻 350+ DSA Problems Solved
 🎖 NCC Cadet (A, B, C Certified)
-
----
-
-# 🌐 Connect With Me
-
-💼 LinkedIn
-https://linkedin.com/in/codingrambharose
-
-🌍 Portfolio
-https://codingrambharose.me
-
-💻 GitHub
-https://github.com/CodingRamBharose
-
-📧 Email
-mailto:ramavtar[.crb@gmail.com](mailto:.crb@gmail.com)
 
 ---
 
