@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ram Avtar</h1>
-<h3 align="center">Full Stack Developer | Thapar University | MERN | AI | DevOps</h3>
+<h3 align="center">Full Stack Developer | Thapar University </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Engineer;Flutter+%7C+React+Native+Developer;AI+%7C+Deepfake+Detection+Research;DevOps+Enthusiast&center=true&width=600&height=45">
