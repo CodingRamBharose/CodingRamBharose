@@ -89,10 +89,11 @@
 
 ---
 
-# 💻 Languages Used in My Repositories
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingRamBharose&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodingRamBharose&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingRamBharose&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
