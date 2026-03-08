@@ -77,12 +77,56 @@
 
 ---
 
-# 🧰 Tools & Platforms
+# 🧰 Tools, Libraries & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
+### 💻 Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=androidstudio)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+
+---
+
+### 🎨 Design & Productivity
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
+![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge\&logo=pinterest)
+
+---
+
+### 🤖 AI & Developer Assistants
+
+![Claude](https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-AI-purple?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI-green?style=for-the-badge)
+
+---
+
+### ☁ Hosting & Deployment
+
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge\&logo=firebase)
+
+---
+
+### ⚙ Backend Libraries & Services
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge\&logo=socketdotio)
+![Zustand](https://img.shields.io/badge/Zustand-brown?style=for-the-badge)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge\&logo=cloudinary)
+![Resend](https://img.shields.io/badge/Resend-email-black?style=for-the-badge)
+
+---
+
+### 📦 Additional Libraries
+
+![Axios](https://img.shields.io/badge/Axios-purple?style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-blue?style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge\&logo=redux)
 
 ---
 
