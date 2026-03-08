@@ -102,14 +102,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodingRamBharose&theme=tokyonight&no-frame=true&row=1&column=6&v=2" />
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
