@@ -92,12 +92,20 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodingRamBharose&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodingRamBharose&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodingRamBharose&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodingRamBharose&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=CodingRamBharose&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CodingRamBharose&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
